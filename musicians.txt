@@ -1,0 +1,4 @@
+('John', 'guitar')
+('Paul', 'bass')
+('Cheryl', 'vocals')
+('Ida', 'drums')
